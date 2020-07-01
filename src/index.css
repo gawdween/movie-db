@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#movies-table {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+}
+
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#movies-table td, #movies-table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#movies-table tr:nth-child(odd){background-color: #f2f2f2;}
+
+#movies-table tr:hover {background-color: #ddd;}
+
+#movies-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}

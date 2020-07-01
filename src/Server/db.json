@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "title": "Salt",
+      "genre": "Action",
+      "numberOfSeats": "60",
+      "id": 1
+    },
+    {
+      "title": "Titanic",
+      "genre": "Romance",
+      "numberOfSeats": "30",
+      "id": 3
+    },
+    {
+      "title": "Fast and Furious",
+      "genre": "Action",
+      "numberOfSeats": "200",
+      "id": 4
+    },
+    {
+      "title": "Baki",
+      "genre": "Animation",
+      "numberOfSeats": "300",
+      "id": 5
+    },
+    {
+      "title": "Spy in Disguise",
+      "genre": "Animation",
+      "numberOfSeats": "300",
+      "id": 6
+    },
+    {
+      "title": "Everybody Hates Chris",
+      "genre": "Comedy",
+      "numberOfSeats": "30",
+      "id": 7
+    },
+    {
+      "title": "Fast and Furious 8",
+      "genre": "Action",
+      "numberOfSeats": "200",
+      "id": 8
+    },
+    {
+      "title": "Fast and Furious 9",
+      "genre": "Action",
+      "numberOfSeats": "49",
+      "id": 10
+    },
+    {
+      "title": "Code 8",
+      "genre": "Action",
+      "numberOfSeats": "86",
+      "id": 11
+    },
+    {
+      "title": "Alice in the Wonderland",
+      "genre": "Animation",
+      "numberOfSeats": "40",
+      "id": 12
+    },
+    {
+      "title": "Extraction",
+      "genre": "Action",
+      "numberOfSeats": "150",
+      "id": 13
+    },
+    {
+      "title": "The Godfather",
+      "genre": "Mafia",
+      "numberOfSeats": "30",
+      "id": 14
+    },
+    {
+      "title": "Tom and Jerry",
+      "genre": "Animation",
+      "numberOfSeats": "100",
+      "id": 15
+    },
+    {
+      "title": "Titanic",
+      "genre": "Romance",
+      "numberOfSeats": "89",
+      "id": 16
+    },
+    {
+      "title": "Parasite",
+      "genre": "Comedy",
+      "numberOfSeats": "50",
+      "id": 17
+    },
+    {
+      "title": "Becky",
+      "genre": "Horror",
+      "numberOfSeats": "126",
+      "id": 18
+    },
+    {
+      "title": "Pirate of the Caribbean",
+      "genre": "Action",
+      "numberOfSeats": "60",
+      "id": 19
+    },
+    {
+      "title": "King Kong",
+      "genre": "Action",
+      "numberOfSeats": "50",
+      "id": 20
+    }
+  ]
+}
